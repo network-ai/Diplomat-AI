@@ -66,6 +66,7 @@ const DocumentGenerator: React.FC = () => {
         <FroalaEditorComponent tag='textarea'/>
       </Col>
     </Row>
+    // dummy
   );
 };
 
